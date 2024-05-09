@@ -70,9 +70,8 @@ required values to connect with the PostgreSQL database.
     --- Now, Update SMTP_PASSWORD in ".env" file.
 
 ### Installation steps of frontend in Android studio:
-### 7. Move AppUI folder to Android studio.
-
-### 8. Install all the neccessary dependencies.
+Check out at the link given below for the frontend code and its proper setup:
+  - https://github.com/sangeetanandanvishal04/Institute-management-system-frontend.git
 
 ### 9. Run the Application:
     First, Run the FastAPI Server using command prompt in VS Code: uvicorn FastAPI.main:app --reload
