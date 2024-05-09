@@ -75,5 +75,4 @@ Check out at the link given below for the frontend code and its proper setup:
 
 ### 9. Run the Application:
     First, Run the FastAPI Server using command prompt in VS Code: uvicorn FastAPI.main:app --reload
-    After successfull run of FastAPI Server, run front-end of the Application inside Android studio."# Fullstack-Institute-management-system" 
-"# Fullstack-Institute-management-system" 
+    After successfull run of FastAPI Server, run front-end of the Application inside Android studio."
